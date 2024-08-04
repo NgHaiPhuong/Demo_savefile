@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/them"
+        android:title="Thêm hàng" />
+    <item
+        android:id="@+id/sua"
+        android:title="Sửa hàng" />
+    <item
+        android:id="@+id/xoa"
+        android:title="Xóa hàng" />
+    <item
+        android:id="@+id/luu"
+        android:title="Lưu danh sách hàng vào file" />
+    <item
+        android:id="@+id/doc"
+        android:title="Đọc danh sách hàng từ file" />
+    <item
+        android:id="@+id/dong"
+        android:title="Đóng" />
+</menu>
